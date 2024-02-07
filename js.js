@@ -1,10 +1,10 @@
 // Lista de frutas e suas dicas
 const fruits = [
-    { name: "Banana", hint: "É uma fruta que começa com a letra 'B' e tem 6 letras", additionalHint: "Macaco gosta" },
-    { name: "Maçã", hint: "É uma fruta que começa com a letra 'M' e tem 4 letras", additionalHint: "Branca de neve comeu" },
-    { name: "Laranja", hint: "É uma fruta que começa com a letra 'L' e tem 7 letras", additionalHint: "E uma cor" },
-    { name: "Abacaxi", hint: "É uma fruta que começa com a letra 'A' e tem 7 letras", additionalHint: "tem coroa" },
-    { name: "Uva", hint: "É uma fruta que começa com a letra 'U' e tem 3 letras", additionalHint: "Uvas podem ser verdes, vermelhas ou roxas e são frequentemente usadas para fazer suco e vinho." }
+    { name: "limão", hint: "É uma fruta que começa com a letra 'L'", additionalHint: "E uma fruta acida" },
+    { name: "Maçã", hint: "É uma fruta que começa com a letra 'M'", additionalHint: "Branca de neve comeu" },
+    { name: "coco", hint: "É uma fruta que começa com a letra 'C'", additionalHint: "E uma fruta que tem agua dentro" },
+    { name: "jaca", hint: "É uma fruta que começa com a letra 'j'", additionalHint: "e uma fruta grande e espinhosa" },
+    { name: "melão", hint: "É uma fruta que começa com a letra 'M'", additionalHint: "e uma fruta doce e amarelo por fora " }
   ];
   
   let currentFruitIndex = 0;
